@@ -1,4 +1,10 @@
-## Hi there 👋
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue" />
+  <img src="https://img.shields.io/badge/NLP-spaCy-09a3d5" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-black" />
+</p>
 
 <!--
 **ravikiranc713-dotcom/ravikiranc713-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
