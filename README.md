@@ -17,6 +17,11 @@ I enjoy building end-to-end solutions—from data extraction and document intell
 - 💡 Interests: Document Intelligence, AI assistants, backend systems  
 - 🌱 Always learning and experimenting with new technologies  
 
+**What I bring:**
+- Practical problem-solving  
+- Clean, readable code  
+- Experience building real systems like Document Intelligence System  
+- Fast learner & curious builder  
 <!--
 **ravikiranc713-dotcom/ravikiranc713-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
