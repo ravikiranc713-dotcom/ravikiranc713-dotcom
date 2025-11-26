@@ -21,7 +21,13 @@ I enjoy building end-to-end solutions—from data extraction and document intell
 - Practical problem-solving  
 - Clean, readable code  
 - Experience building real systems like Document Intelligence System  
-- Fast learner & curious builder  
+- Fast learner & curious builder
+
+## 📫 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-ravikiranc713%40gmail.com-red)](mailto:ravikiranc713@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravikiran_C-blue)](https://www.linkedin.com/in/ravikiran-c-b5369a13b/)
+
 <!--
 **ravikiranc713-dotcom/ravikiranc713-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
