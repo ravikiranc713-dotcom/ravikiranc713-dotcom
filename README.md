@@ -6,6 +6,17 @@
   <img src="https://img.shields.io/badge/Git-Version_Control-black" />
 </p>
 
+## 👨‍💻 About Me
+
+Hi! I'm Ravi, a Python developer exploring the world of Generative AI, NLP, and intelligent automation.  
+I enjoy building end-to-end solutions—from data extraction and document intelligence to LLM-powered applications.
+
+- 🔍 Currently learning: Generative AI, LLMs, RAG, Vector Databases  
+- 🚀 Building: AI automation tools and NLP pipelines  
+<!--- 📚 Completed: GenAI Bootcamp (practical LLM applications)-->  
+- 💡 Interests: Document Intelligence, AI assistants, backend systems  
+- 🌱 Always learning and experimenting with new technologies  
+
 <!--
 **ravikiranc713-dotcom/ravikiranc713-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
