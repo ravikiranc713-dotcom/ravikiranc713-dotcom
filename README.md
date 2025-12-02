@@ -13,7 +13,6 @@ I enjoy building end-to-end solutions—from data extraction and document intell
 
 - 🔍 Currently learning: Generative AI, LLMs, RAG, Vector Databases  
 - 🚀 Building: AI automation tools and NLP pipelines  
-<!--- 📚 Completed: GenAI Bootcamp (practical LLM applications)-->  
 - 💡 Interests: Document Intelligence, AI assistants, backend systems  
 - 🌱 Always learning and experimenting with new technologies  
 
